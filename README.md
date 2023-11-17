@@ -1,5 +1,3 @@
 # helloworld
-# helloworld
-# helloworld
-# helloworld
-# helloworld
+
+praticando git e github
